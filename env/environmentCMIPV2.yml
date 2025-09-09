@@ -1,0 +1,17 @@
+name: cmipv2
+dependencies:
+  - numpy
+  - pandas
+  - xarray
+  - xesmf
+  - dask
+  - netCDF4
+  - iris
+  - ipykernel
+  - matplotlib
+  - cartopy
+  - pandas
+  - cftime
+  - xmip
+  - tqdm
+  
